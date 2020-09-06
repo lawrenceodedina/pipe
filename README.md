@@ -1,1 +1,3 @@
-# pipe
+# maven-project
+
+Simple Maven Project
